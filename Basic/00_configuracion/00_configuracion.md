@@ -1,4 +1,4 @@
-## Lección 1 - Configuración
+## Configuración
 
 En esta primera lección, aprenderás cómo configurar tu entorno de desarrollo para comenzar a programar en C++. La configuración adecuada es un paso crucial en tu viaje como programador en C++, y en esta lección te guiaremos a través de los pasos esenciales.
 
