@@ -6,7 +6,7 @@
 
 **Operadores de comparación:** Se utilizan para comparar valores y devuelven un resultado booleano (verdadero o falso). Estos operadores incluyen igual a, diferente de, mayor que, menor que, mayor o igual que y menor o igual que.
 
-**Operadores lógicos:** Se utilizan para realizar operaciones lógicas, como el AND lógico (&&), el OR lógico (||) y el NOT lógico (!).
+**Operadores lógicos:** Se utilizan para realizar operaciones lógicas, como el AND lógico (&), el OR lógico (|) y el NOT lógico (!).
 
 **Operador ternario condicional:** El operador ternario condicional (también conocido como operador condicional) es un operador que toma tres operandos y se utiliza para realizar evaluaciones condicionales en una única expresión.
 
