@@ -12,8 +12,11 @@ int main()
     bool my_bool_variable = false;
     cout << my_bool_variable << endl;
 
+    float my_float_variable = 5.5;
+    cout << my_float_variable << endl;
+
     // Concatenación de variables en un cout
-    cout << my_string_variable << " " << my_int_variable << " " << my_bool_variable << endl;
+    cout << my_string_variable << ", " << my_int_variable << ", " << my_bool_variable << endl;
     cout << "Este es el valor de: " << my_bool_variable << endl;
 
     // Variables en una sola línea
